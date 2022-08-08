@@ -6,3 +6,4 @@
 - MVP - minimum value product
 - Product
 - DB - connection string
+- yaml - Yet Another Markup Language
